@@ -162,3 +162,10 @@ h1 {
     border-radius: 20px;
   }
 }
+
+.site-contact {
+  margin: 22px 0 0;
+  color: rgba(154, 166, 183, 0.68);
+  font-size: 12px;
+  text-align: center;
+}
