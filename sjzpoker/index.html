@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#25169;&#20811;&#29260;&#25910;&#38598;&#36827;&#24230;</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="command-panel" aria-label="&#25169;&#20811;&#29260;&#25910;&#38598;&#36827;&#24230;">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">CARD ARCHIVE / SYNC KEY</p>
+            <h1>&#25169;&#20811;&#29260;&#25910;&#38598;&#36827;&#24230;</h1>
+          </div>
+          <div class="status-block" aria-label="&#25910;&#38598;&#36827;&#24230;">
+            <span id="collectedCount">0</span>
+            <small>/ 54</small>
+          </div>
+        </header>
+
+        <div class="hud-grid">
+          <aside class="control-rack" aria-label="&#25511;&#21046;&#38754;&#26495;">
+            <div class="progress-card">
+              <div class="ring" id="progressRing" style="--progress: 0">
+                <span id="progressPercent">0%</span>
+              </div>
+              <div>
+                <strong>&#25910;&#38598;&#29575;</strong>
+                <p id="remainingText">&#36824;&#24046; 54 &#24352;</p>
+              </div>
+            </div>
+
+            <div class="control-group">
+              <label for="sortMode">&#25490;&#21015;&#39034;&#24207;</label>
+              <select id="sortMode">
+                <option value="suit">&#25353;&#33457;&#33394;</option>
+                <option value="rank">&#25353;&#25968;&#23383;</option>
+                <option value="missing">&#26410;&#25910;&#38598;&#30340;&#20248;&#20808;</option>
+              </select>
+            </div>
+
+            <div class="actions">
+              <button id="markAll" type="button">&#20840;&#36873;</button>
+              <button id="clearAll" type="button">&#28165;&#31354;</button>
+            </div>
+
+            <div class="sync-box" aria-label="&#36827;&#24230;&#23494;&#38053;">
+              <label for="syncKey">&#36827;&#24230;&#23494;&#38053;</label>
+              <textarea id="syncKey" rows="2" spellcheck="false" placeholder="PCT1-..." aria-label="&#36827;&#24230;&#23494;&#38053;"></textarea>
+              <div class="sync-actions">
+                <button id="exportKey" type="button">&#23548;&#20986;</button>
+                <button id="copyKey" type="button">&#22797;&#21046;</button>
+                <button id="importKey" type="button">&#23548;&#20837;</button>
+              </div>
+              <p id="syncStatus" class="sync-status">&#23548;&#20986;&#21518;&#21457;&#32473;&#26032;&#35774;&#22791;&#65292;&#23545;&#26041;&#31896;&#36148;&#21518;&#23548;&#20837;&#12290;</p>
+            </div>
+
+            <div class="legend" aria-label="&#22270;&#20363;">
+              <span><i class="dot owned"></i>&#24050;&#25910;&#38598;</span>
+              <span><i class="dot missing"></i>&#26410;&#25910;&#38598;</span>
+            </div>
+          </aside>
+
+          <section class="deck-zone" aria-label="&#29260;&#32452;">
+            <div class="deck-meta">
+              <strong id="deckTitle">&#25353;&#33457;&#33394;&#25490;&#21015;</strong>
+              <span>&#28857;&#20987;&#29260;&#38754;&#20999;&#25442;&#29366;&#24577;</span>
+            </div>
+            <div class="cards-grid" id="cardsGrid"></div>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

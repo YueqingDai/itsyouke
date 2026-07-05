@@ -1,0 +1,26 @@
+[
+  {
+    "title": "石家庄扑克收集进度",
+    "description": "扑克牌收集进度记录工具，已整合为 itsyouke.com/sjzpoker/。",
+    "href": "sjzpoker/",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "Site 1",
+    "description": "预留给第一个通过 EdgeOne Maker 上传的静态站。",
+    "href": "site1/",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "Site 2",
+    "description": "预留给第二个通过 EdgeOne Maker 上传的静态站。",
+    "href": "site2/",
+    "date": "2026-07-05"
+  },
+  {
+    "title": "Site 3",
+    "description": "预留给第三个通过 EdgeOne Maker 上传的静态站。",
+    "href": "site3/",
+    "date": "2026-07-05"
+  }
+]
