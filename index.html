@@ -11,51 +11,17 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <header class="site-header">
-      <a class="brand" href="/" aria-label="itsyouke.com 首页">itsyouke.com</a>
-      <nav class="nav" aria-label="主导航">
-        <a href="#works">作品</a>
-        <a href="#about">关于</a>
-      </nav>
-    </header>
-
-    <main>
-      <section class="hero" aria-labelledby="hero-title">
-        <div class="hero__content">
-          <p class="eyebrow">Personal static site</p>
-          <h1 id="hero-title">Vibe coding pages live here.</h1>
-          <p class="hero__summary">这里是 itsyouke.com 的主页和导航页，用来集中展示通过 EdgeOne Maker 上传和发布的网页内容。</p>
-          <a class="button" href="#works">查看作品</a>
-        </div>
-      </section>
-
-      <section id="works" class="section" aria-labelledby="works-title">
-        <div class="section__header">
-          <p class="eyebrow">Archive</p>
-          <h2 id="works-title">作品入口</h2>
+    <main class="home-shell">
+      <section class="works-panel" aria-labelledby="works-title">
+        <div class="works-header">
+          <p class="eyebrow">itsyouke.com</p>
+          <h1 id="works-title">作品入口</h1>
         </div>
         <div id="project-grid" class="project-grid" aria-live="polite">
           <p class="muted">正在加载作品列表...</p>
         </div>
       </section>
-
-      <section id="about" class="section section--split" aria-labelledby="about-title">
-        <div>
-          <p class="eyebrow">About</p>
-          <h2 id="about-title">一个轻量的个人页面容器</h2>
-        </div>
-        <p>
-          站点保持静态化，方便部署到 EdgeOne Pages、GitHub Pages 或任意静态托管服务。
-          每个静态站都放在一个一级目录下，例如 <code>/sjzpoker/</code>、<code>/site1/</code>、
-          <code>/site2/</code>。后续通过 EdgeOne Maker 生成的页面，可以复制到对应目录，
-          并在 <code>projects.json</code> 中登记为一个新的入口。
-        </p>
-      </section>
     </main>
-
-    <footer class="site-footer">
-      <span>© <span id="year"></span> itsyouke.com</span>
-    </footer>
 
     <script src="app.js" defer></script>
   </body>
