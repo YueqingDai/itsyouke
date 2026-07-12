@@ -35,7 +35,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Lamball"
+      "source_url": "https://paldb.cc/cn/Lamball",
+      "icon": "./assets/pals/Lamball.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "2",
@@ -54,7 +58,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Cattiva"
+      "source_url": "https://paldb.cc/cn/Cattiva",
+      "icon": "./assets/pals/Cattiva.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "3",
@@ -73,7 +81,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Chikipi"
+      "source_url": "https://paldb.cc/cn/Chikipi",
+      "icon": "./assets/pals/Chikipi.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "4",
@@ -92,7 +104,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Lifmunk"
+      "source_url": "https://paldb.cc/cn/Lifmunk",
+      "icon": "./assets/pals/Lifmunk.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "5",
@@ -111,7 +127,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Fuack"
+      "source_url": "https://paldb.cc/cn/Fuack",
+      "icon": "./assets/pals/Fuack.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "5B",
@@ -130,7 +150,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Fuack_Ignis"
+      "source_url": "https://paldb.cc/cn/Fuack_Ignis",
+      "icon": "./assets/pals/Fuack_Ignis.webp",
+      "elements": [
+        "water",
+        "fire"
+      ]
     },
     {
       "dex_no": "6",
@@ -149,7 +174,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Vixy"
+      "source_url": "https://paldb.cc/cn/Vixy",
+      "icon": "./assets/pals/Vixy.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "7",
@@ -168,7 +197,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Celaray"
+      "source_url": "https://paldb.cc/cn/Celaray",
+      "icon": "./assets/pals/Celaray.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "7B",
@@ -187,7 +220,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Celaray_Lux"
+      "source_url": "https://paldb.cc/cn/Celaray_Lux",
+      "icon": "./assets/pals/Celaray_Lux.webp",
+      "elements": [
+        "water",
+        "electric"
+      ]
     },
     {
       "dex_no": "8",
@@ -206,7 +244,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 2,
-      "source_url": "https://paldb.cc/cn/Cremis"
+      "source_url": "https://paldb.cc/cn/Cremis",
+      "icon": "./assets/pals/Cremis.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "9",
@@ -225,7 +267,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Croajiro"
+      "source_url": "https://paldb.cc/cn/Croajiro",
+      "icon": "./assets/pals/Croajiro.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "9B",
@@ -244,7 +290,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Croajiro_Noct"
+      "source_url": "https://paldb.cc/cn/Croajiro_Noct",
+      "icon": "./assets/pals/Croajiro_Noct.webp",
+      "elements": [
+        "water",
+        "dark"
+      ]
     },
     {
       "dex_no": "10",
@@ -263,7 +314,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Herbil"
+      "source_url": "https://paldb.cc/cn/Herbil",
+      "icon": "./assets/pals/Herbil.webp",
+      "elements": [
+        "grass",
+        "normal"
+      ]
     },
     {
       "dex_no": "11",
@@ -282,7 +338,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Teafant"
+      "source_url": "https://paldb.cc/cn/Teafant",
+      "icon": "./assets/pals/Teafant.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "12",
@@ -301,7 +361,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Gumoss"
+      "source_url": "https://paldb.cc/cn/Gumoss",
+      "icon": "./assets/pals/Gumoss.webp",
+      "elements": [
+        "grass",
+        "ground"
+      ]
     },
     {
       "dex_no": "13",
@@ -320,7 +385,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Pupperai"
+      "source_url": "https://paldb.cc/cn/Pupperai",
+      "icon": "./assets/pals/Pupperai.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "14",
@@ -339,7 +408,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Clovee"
+      "source_url": "https://paldb.cc/cn/Clovee",
+      "icon": "./assets/pals/Clovee.webp",
+      "elements": [
+        "grass",
+        "normal"
+      ]
     },
     {
       "dex_no": "15",
@@ -358,7 +432,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Jolthog"
+      "source_url": "https://paldb.cc/cn/Jolthog",
+      "icon": "./assets/pals/Jolthog.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "15B",
@@ -377,7 +455,11 @@
       "cooling": 1,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Jolthog_Cryst"
+      "source_url": "https://paldb.cc/cn/Jolthog_Cryst",
+      "icon": "./assets/pals/Jolthog_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "16",
@@ -396,7 +478,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Depresso"
+      "source_url": "https://paldb.cc/cn/Depresso",
+      "icon": "./assets/pals/Depresso.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "17",
@@ -415,7 +501,12 @@
       "cooling": 1,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Pengullet"
+      "source_url": "https://paldb.cc/cn/Pengullet",
+      "icon": "./assets/pals/Pengullet.webp",
+      "elements": [
+        "water",
+        "ice"
+      ]
     },
     {
       "dex_no": "17B",
@@ -434,7 +525,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Pengullet_Lux"
+      "source_url": "https://paldb.cc/cn/Pengullet_Lux",
+      "icon": "./assets/pals/Pengullet_Lux.webp",
+      "elements": [
+        "water",
+        "electric"
+      ]
     },
     {
       "dex_no": "18",
@@ -453,7 +549,12 @@
       "cooling": 2,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Penking"
+      "source_url": "https://paldb.cc/cn/Penking",
+      "icon": "./assets/pals/Penking.webp",
+      "elements": [
+        "water",
+        "ice"
+      ]
     },
     {
       "dex_no": "18B",
@@ -472,7 +573,12 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Penking_Lux"
+      "source_url": "https://paldb.cc/cn/Penking_Lux",
+      "icon": "./assets/pals/Penking_Lux.webp",
+      "elements": [
+        "water",
+        "electric"
+      ]
     },
     {
       "dex_no": "19",
@@ -491,7 +597,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Hoocrates"
+      "source_url": "https://paldb.cc/cn/Hoocrates",
+      "icon": "./assets/pals/Hoocrates.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "20",
@@ -510,7 +620,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 2,
-      "source_url": "https://paldb.cc/cn/Melpaca"
+      "source_url": "https://paldb.cc/cn/Melpaca",
+      "icon": "./assets/pals/Melpaca.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "21",
@@ -529,7 +643,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Kingpaca"
+      "source_url": "https://paldb.cc/cn/Kingpaca",
+      "icon": "./assets/pals/Kingpaca.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "21B",
@@ -548,7 +666,11 @@
       "cooling": 4,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Kingpaca_Cryst"
+      "source_url": "https://paldb.cc/cn/Kingpaca_Cryst",
+      "icon": "./assets/pals/Kingpaca_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "22",
@@ -567,7 +689,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Daedream"
+      "source_url": "https://paldb.cc/cn/Daedream",
+      "icon": "./assets/pals/Daedream.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "23",
@@ -586,7 +712,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Tanzee"
+      "source_url": "https://paldb.cc/cn/Tanzee",
+      "icon": "./assets/pals/Tanzee.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "23B",
@@ -605,7 +735,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Tanzee_Ignis"
+      "source_url": "https://paldb.cc/cn/Tanzee_Ignis",
+      "icon": "./assets/pals/Tanzee_Ignis.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "24",
@@ -624,7 +758,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Nox"
+      "source_url": "https://paldb.cc/cn/Nox",
+      "icon": "./assets/pals/Nox.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "25",
@@ -643,7 +781,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Flambelle"
+      "source_url": "https://paldb.cc/cn/Flambelle",
+      "icon": "./assets/pals/Flambelle.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "26",
@@ -662,7 +804,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Rooby"
+      "source_url": "https://paldb.cc/cn/Rooby",
+      "icon": "./assets/pals/Rooby.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "27",
@@ -681,7 +827,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Mau"
+      "source_url": "https://paldb.cc/cn/Mau",
+      "icon": "./assets/pals/Mau.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "27B",
@@ -700,7 +850,11 @@
       "cooling": 1,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Mau_Cryst"
+      "source_url": "https://paldb.cc/cn/Mau_Cryst",
+      "icon": "./assets/pals/Mau_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "28",
@@ -719,7 +873,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Rushoar"
+      "source_url": "https://paldb.cc/cn/Rushoar",
+      "icon": "./assets/pals/Rushoar.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "29",
@@ -738,7 +896,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Foxparks"
+      "source_url": "https://paldb.cc/cn/Foxparks",
+      "icon": "./assets/pals/Foxparks.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "29B",
@@ -757,7 +919,11 @@
       "cooling": 2,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Foxparks_Cryst"
+      "source_url": "https://paldb.cc/cn/Foxparks_Cryst",
+      "icon": "./assets/pals/Foxparks_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "30",
@@ -776,7 +942,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Killamari"
+      "source_url": "https://paldb.cc/cn/Killamari",
+      "icon": "./assets/pals/Killamari.webp",
+      "elements": [
+        "dark",
+        "water"
+      ]
     },
     {
       "dex_no": "30B",
@@ -795,7 +966,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Killamari_Primo"
+      "source_url": "https://paldb.cc/cn/Killamari_Primo",
+      "icon": "./assets/pals/Killamari_Primo.webp",
+      "elements": [
+        "normal",
+        "water"
+      ]
     },
     {
       "dex_no": "31",
@@ -814,7 +990,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Fuddler"
+      "source_url": "https://paldb.cc/cn/Fuddler",
+      "icon": "./assets/pals/Fuddler.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "32",
@@ -833,7 +1013,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Eikthyrdeer"
+      "source_url": "https://paldb.cc/cn/Eikthyrdeer",
+      "icon": "./assets/pals/Eikthyrdeer.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "32B",
@@ -852,7 +1036,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Eikthyrdeer_Terra"
+      "source_url": "https://paldb.cc/cn/Eikthyrdeer_Terra",
+      "icon": "./assets/pals/Eikthyrdeer_Terra.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "33",
@@ -871,7 +1059,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Direhowl"
+      "source_url": "https://paldb.cc/cn/Direhowl",
+      "icon": "./assets/pals/Direhowl.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "34",
@@ -890,7 +1082,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Caprity"
+      "source_url": "https://paldb.cc/cn/Caprity",
+      "icon": "./assets/pals/Caprity.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "34B",
@@ -909,7 +1105,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Caprity_Noct"
+      "source_url": "https://paldb.cc/cn/Caprity_Noct",
+      "icon": "./assets/pals/Caprity_Noct.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "35",
@@ -928,7 +1128,11 @@
       "cooling": 1,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Swee"
+      "source_url": "https://paldb.cc/cn/Swee",
+      "icon": "./assets/pals/Swee.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "36",
@@ -947,7 +1151,11 @@
       "cooling": 3,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Sweepa"
+      "source_url": "https://paldb.cc/cn/Sweepa",
+      "icon": "./assets/pals/Sweepa.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "37",
@@ -966,7 +1174,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Turtacle"
+      "source_url": "https://paldb.cc/cn/Turtacle",
+      "icon": "./assets/pals/Turtacle.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "37B",
@@ -985,7 +1197,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Turtacle_Terra"
+      "source_url": "https://paldb.cc/cn/Turtacle_Terra",
+      "icon": "./assets/pals/Turtacle_Terra.webp",
+      "elements": [
+        "water",
+        "ground"
+      ]
     },
     {
       "dex_no": "38",
@@ -1004,7 +1221,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Hangyu"
+      "source_url": "https://paldb.cc/cn/Hangyu",
+      "icon": "./assets/pals/Hangyu.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "38B",
@@ -1023,7 +1244,11 @@
       "cooling": 2,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Hangyu_Cryst"
+      "source_url": "https://paldb.cc/cn/Hangyu_Cryst",
+      "icon": "./assets/pals/Hangyu_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "39",
@@ -1042,7 +1267,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Woolipop"
+      "source_url": "https://paldb.cc/cn/Woolipop",
+      "icon": "./assets/pals/Woolipop.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "39B",
@@ -1061,7 +1290,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Woolipop_Terra"
+      "source_url": "https://paldb.cc/cn/Woolipop_Terra",
+      "icon": "./assets/pals/Woolipop_Terra.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "40",
@@ -1080,7 +1313,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 2,
-      "source_url": "https://paldb.cc/cn/Mozzarina"
+      "source_url": "https://paldb.cc/cn/Mozzarina",
+      "icon": "./assets/pals/Mozzarina.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "41",
@@ -1099,7 +1336,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Azurobe"
+      "source_url": "https://paldb.cc/cn/Azurobe",
+      "icon": "./assets/pals/Azurobe.webp",
+      "elements": [
+        "water",
+        "dragon"
+      ]
     },
     {
       "dex_no": "41B",
@@ -1118,7 +1360,12 @@
       "cooling": 4,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Azurobe_Cryst"
+      "source_url": "https://paldb.cc/cn/Azurobe_Cryst",
+      "icon": "./assets/pals/Azurobe_Cryst.webp",
+      "elements": [
+        "ice",
+        "dragon"
+      ]
     },
     {
       "dex_no": "42",
@@ -1137,7 +1384,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Sparkit"
+      "source_url": "https://paldb.cc/cn/Sparkit",
+      "icon": "./assets/pals/Sparkit.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "43",
@@ -1156,7 +1407,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Kelpsea"
+      "source_url": "https://paldb.cc/cn/Kelpsea",
+      "icon": "./assets/pals/Kelpsea.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "43B",
@@ -1175,7 +1430,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Kelpsea_Ignis"
+      "source_url": "https://paldb.cc/cn/Kelpsea_Ignis",
+      "icon": "./assets/pals/Kelpsea_Ignis.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "44",
@@ -1194,7 +1453,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Ribbuny"
+      "source_url": "https://paldb.cc/cn/Ribbuny",
+      "icon": "./assets/pals/Ribbuny.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "44B",
@@ -1213,7 +1476,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Ribbuny_Botan"
+      "source_url": "https://paldb.cc/cn/Ribbuny_Botan",
+      "icon": "./assets/pals/Ribbuny_Botan.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "45",
@@ -1232,7 +1499,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Jelliette"
+      "source_url": "https://paldb.cc/cn/Jelliette",
+      "icon": "./assets/pals/Jelliette.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "46",
@@ -1251,7 +1522,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Jellroy"
+      "source_url": "https://paldb.cc/cn/Jellroy",
+      "icon": "./assets/pals/Jellroy.webp",
+      "elements": [
+        "water",
+        "dark"
+      ]
     },
     {
       "dex_no": "47",
@@ -1270,7 +1546,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Amione"
+      "source_url": "https://paldb.cc/cn/Amione",
+      "icon": "./assets/pals/Amione.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "48",
@@ -1289,7 +1569,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Gloopie"
+      "source_url": "https://paldb.cc/cn/Gloopie",
+      "icon": "./assets/pals/Gloopie.webp",
+      "elements": [
+        "water",
+        "dark"
+      ]
     },
     {
       "dex_no": "48B",
@@ -1308,7 +1593,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Gloopie_Primo"
+      "source_url": "https://paldb.cc/cn/Gloopie_Primo",
+      "icon": "./assets/pals/Gloopie_Primo.webp",
+      "elements": [
+        "water",
+        "normal"
+      ]
     },
     {
       "dex_no": "49",
@@ -1327,7 +1617,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Galeclaw"
+      "source_url": "https://paldb.cc/cn/Galeclaw",
+      "icon": "./assets/pals/Galeclaw.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "50",
@@ -1346,7 +1640,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Wispaw"
+      "source_url": "https://paldb.cc/cn/Wispaw",
+      "icon": "./assets/pals/Wispaw.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "51",
@@ -1365,7 +1663,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Nitewing"
+      "source_url": "https://paldb.cc/cn/Nitewing",
+      "icon": "./assets/pals/Nitewing.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "52",
@@ -1384,7 +1686,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Tombat"
+      "source_url": "https://paldb.cc/cn/Tombat",
+      "icon": "./assets/pals/Tombat.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "53",
@@ -1403,7 +1709,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Tocotoco"
+      "source_url": "https://paldb.cc/cn/Tocotoco",
+      "icon": "./assets/pals/Tocotoco.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "54",
@@ -1422,7 +1732,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Univolt"
+      "source_url": "https://paldb.cc/cn/Univolt",
+      "icon": "./assets/pals/Univolt.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "54B",
@@ -1441,7 +1755,11 @@
       "cooling": 6,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Univolt_Cryst"
+      "source_url": "https://paldb.cc/cn/Univolt_Cryst",
+      "icon": "./assets/pals/Univolt_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "55",
@@ -1460,7 +1778,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Gobfin"
+      "source_url": "https://paldb.cc/cn/Gobfin",
+      "icon": "./assets/pals/Gobfin.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "55B",
@@ -1479,7 +1801,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Gobfin_Ignis"
+      "source_url": "https://paldb.cc/cn/Gobfin_Ignis",
+      "icon": "./assets/pals/Gobfin_Ignis.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "56",
@@ -1498,7 +1824,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Loupmoon"
+      "source_url": "https://paldb.cc/cn/Loupmoon",
+      "icon": "./assets/pals/Loupmoon.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "56B",
@@ -1517,7 +1847,11 @@
       "cooling": 4,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Loupmoon_Cryst"
+      "source_url": "https://paldb.cc/cn/Loupmoon_Cryst",
+      "icon": "./assets/pals/Loupmoon_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "57",
@@ -1536,7 +1870,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Cawgnito"
+      "source_url": "https://paldb.cc/cn/Cawgnito",
+      "icon": "./assets/pals/Cawgnito.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "58",
@@ -1555,7 +1893,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Arsox"
+      "source_url": "https://paldb.cc/cn/Arsox",
+      "icon": "./assets/pals/Arsox.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "59",
@@ -1574,7 +1916,11 @@
       "cooling": 2,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Muffly"
+      "source_url": "https://paldb.cc/cn/Muffly",
+      "icon": "./assets/pals/Muffly.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "60",
@@ -1593,7 +1939,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Bristla"
+      "source_url": "https://paldb.cc/cn/Bristla",
+      "icon": "./assets/pals/Bristla.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "61",
@@ -1612,7 +1962,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Cinnamoth"
+      "source_url": "https://paldb.cc/cn/Cinnamoth",
+      "icon": "./assets/pals/Cinnamoth.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "62",
@@ -1631,7 +1985,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Puffolt"
+      "source_url": "https://paldb.cc/cn/Puffolt",
+      "icon": "./assets/pals/Puffolt.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "63",
@@ -1650,7 +2008,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Elphidran"
+      "source_url": "https://paldb.cc/cn/Elphidran",
+      "icon": "./assets/pals/Elphidran.webp",
+      "elements": [
+        "dragon"
+      ]
     },
     {
       "dex_no": "63B",
@@ -1669,7 +2031,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Elphidran_Aqua"
+      "source_url": "https://paldb.cc/cn/Elphidran_Aqua",
+      "icon": "./assets/pals/Elphidran_Aqua.webp",
+      "elements": [
+        "dragon",
+        "water"
+      ]
     },
     {
       "dex_no": "64",
@@ -1688,7 +2055,12 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Vanwyrm"
+      "source_url": "https://paldb.cc/cn/Vanwyrm",
+      "icon": "./assets/pals/Vanwyrm.webp",
+      "elements": [
+        "fire",
+        "dark"
+      ]
     },
     {
       "dex_no": "64B",
@@ -1707,7 +2079,12 @@
       "cooling": 2,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Vanwyrm_Cryst"
+      "source_url": "https://paldb.cc/cn/Vanwyrm_Cryst",
+      "icon": "./assets/pals/Vanwyrm_Cryst.webp",
+      "elements": [
+        "ice",
+        "dark"
+      ]
     },
     {
       "dex_no": "65",
@@ -1726,7 +2103,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Felbat"
+      "source_url": "https://paldb.cc/cn/Felbat",
+      "icon": "./assets/pals/Felbat.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "66",
@@ -1745,7 +2126,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 2,
-      "source_url": "https://paldb.cc/cn/Vaelet"
+      "source_url": "https://paldb.cc/cn/Vaelet",
+      "icon": "./assets/pals/Vaelet.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "67",
@@ -1764,7 +2149,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 3,
-      "source_url": "https://paldb.cc/cn/Beegarde"
+      "source_url": "https://paldb.cc/cn/Beegarde",
+      "icon": "./assets/pals/Beegarde.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "68",
@@ -1783,7 +2172,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Elizabee"
+      "source_url": "https://paldb.cc/cn/Elizabee",
+      "icon": "./assets/pals/Elizabee.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "69",
@@ -1802,7 +2195,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Lovander"
+      "source_url": "https://paldb.cc/cn/Lovander",
+      "icon": "./assets/pals/Lovander.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "70",
@@ -1821,7 +2218,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Grintale"
+      "source_url": "https://paldb.cc/cn/Grintale",
+      "icon": "./assets/pals/Grintale.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "71",
@@ -1840,7 +2241,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Tarantriss"
+      "source_url": "https://paldb.cc/cn/Tarantriss",
+      "icon": "./assets/pals/Tarantriss.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "72",
@@ -1859,7 +2264,12 @@
       "cooling": 4,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Polapup"
+      "source_url": "https://paldb.cc/cn/Polapup",
+      "icon": "./assets/pals/Polapup.webp",
+      "elements": [
+        "ice",
+        "water"
+      ]
     },
     {
       "dex_no": "72B",
@@ -1878,7 +2288,12 @@
       "cooling": 4,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Polapup_Terra"
+      "source_url": "https://paldb.cc/cn/Polapup_Terra",
+      "icon": "./assets/pals/Polapup_Terra.webp",
+      "elements": [
+        "ice",
+        "ground"
+      ]
     },
     {
       "dex_no": "73",
@@ -1897,7 +2312,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Leezpunk"
+      "source_url": "https://paldb.cc/cn/Leezpunk",
+      "icon": "./assets/pals/Leezpunk.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "73B",
@@ -1916,7 +2335,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Leezpunk_Ignis"
+      "source_url": "https://paldb.cc/cn/Leezpunk_Ignis",
+      "icon": "./assets/pals/Leezpunk_Ignis.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "74",
@@ -1935,7 +2358,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Gorirat"
+      "source_url": "https://paldb.cc/cn/Gorirat",
+      "icon": "./assets/pals/Gorirat.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "74B",
@@ -1954,7 +2381,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Gorirat_Terra"
+      "source_url": "https://paldb.cc/cn/Gorirat_Terra",
+      "icon": "./assets/pals/Gorirat_Terra.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "75",
@@ -1973,7 +2404,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 2,
-      "source_url": "https://paldb.cc/cn/Surfent"
+      "source_url": "https://paldb.cc/cn/Surfent",
+      "icon": "./assets/pals/Surfent.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "75B",
@@ -1992,7 +2427,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Surfent_Terra"
+      "source_url": "https://paldb.cc/cn/Surfent_Terra",
+      "icon": "./assets/pals/Surfent_Terra.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "76",
@@ -2011,7 +2450,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Robinquill"
+      "source_url": "https://paldb.cc/cn/Robinquill",
+      "icon": "./assets/pals/Robinquill.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "76B",
@@ -2030,7 +2473,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Robinquill_Terra"
+      "source_url": "https://paldb.cc/cn/Robinquill_Terra",
+      "icon": "./assets/pals/Robinquill_Terra.webp",
+      "elements": [
+        "grass",
+        "ground"
+      ]
     },
     {
       "dex_no": "77",
@@ -2049,7 +2497,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Flopie"
+      "source_url": "https://paldb.cc/cn/Flopie",
+      "icon": "./assets/pals/Flopie.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "78",
@@ -2068,7 +2520,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Wixen"
+      "source_url": "https://paldb.cc/cn/Wixen",
+      "icon": "./assets/pals/Wixen.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "78B",
@@ -2087,7 +2543,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Wixen_Noct"
+      "source_url": "https://paldb.cc/cn/Wixen_Noct",
+      "icon": "./assets/pals/Wixen_Noct.webp",
+      "elements": [
+        "fire",
+        "dark"
+      ]
     },
     {
       "dex_no": "79",
@@ -2106,7 +2567,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Katress"
+      "source_url": "https://paldb.cc/cn/Katress",
+      "icon": "./assets/pals/Katress.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "79B",
@@ -2125,7 +2590,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Katress_Ignis"
+      "source_url": "https://paldb.cc/cn/Katress_Ignis",
+      "icon": "./assets/pals/Katress_Ignis.webp",
+      "elements": [
+        "dark",
+        "fire"
+      ]
     },
     {
       "dex_no": "80",
@@ -2144,7 +2614,11 @@
       "cooling": 0,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Helzephyr"
+      "source_url": "https://paldb.cc/cn/Helzephyr",
+      "icon": "./assets/pals/Helzephyr.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "80B",
@@ -2163,7 +2637,12 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Helzephyr_Lux"
+      "source_url": "https://paldb.cc/cn/Helzephyr_Lux",
+      "icon": "./assets/pals/Helzephyr_Lux.webp",
+      "elements": [
+        "dark",
+        "electric"
+      ]
     },
     {
       "dex_no": "81",
@@ -2182,7 +2661,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Elgrove"
+      "source_url": "https://paldb.cc/cn/Elgrove",
+      "icon": "./assets/pals/Elgrove.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "81B",
@@ -2201,7 +2684,11 @@
       "cooling": 5,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Elgrove_Cryst"
+      "source_url": "https://paldb.cc/cn/Elgrove_Cryst",
+      "icon": "./assets/pals/Elgrove_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "82",
@@ -2220,7 +2707,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Lunaris"
+      "source_url": "https://paldb.cc/cn/Lunaris",
+      "icon": "./assets/pals/Lunaris.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "83",
@@ -2239,7 +2730,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Fenglope"
+      "source_url": "https://paldb.cc/cn/Fenglope",
+      "icon": "./assets/pals/Fenglope.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "83B",
@@ -2258,7 +2753,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Fenglope_Lux"
+      "source_url": "https://paldb.cc/cn/Fenglope_Lux",
+      "icon": "./assets/pals/Fenglope_Lux.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "84",
@@ -2277,7 +2776,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dinossom"
+      "source_url": "https://paldb.cc/cn/Dinossom",
+      "icon": "./assets/pals/Dinossom.webp",
+      "elements": [
+        "grass",
+        "dragon"
+      ]
     },
     {
       "dex_no": "84B",
@@ -2296,7 +2800,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dinossom_Lux"
+      "source_url": "https://paldb.cc/cn/Dinossom_Lux",
+      "icon": "./assets/pals/Dinossom_Lux.webp",
+      "elements": [
+        "electric",
+        "dragon"
+      ]
     },
     {
       "dex_no": "85",
@@ -2315,7 +2824,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Bushi"
+      "source_url": "https://paldb.cc/cn/Bushi",
+      "icon": "./assets/pals/Bushi.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "85B",
@@ -2334,7 +2847,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Bushi_Noct"
+      "source_url": "https://paldb.cc/cn/Bushi_Noct",
+      "icon": "./assets/pals/Bushi_Noct.webp",
+      "elements": [
+        "fire",
+        "dark"
+      ]
     },
     {
       "dex_no": "86",
@@ -2353,7 +2871,12 @@
       "cooling": 3,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Munchill"
+      "source_url": "https://paldb.cc/cn/Munchill",
+      "icon": "./assets/pals/Munchill.webp",
+      "elements": [
+        "ice",
+        "water"
+      ]
     },
     {
       "dex_no": "87",
@@ -2372,7 +2895,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Mammorest"
+      "source_url": "https://paldb.cc/cn/Mammorest",
+      "icon": "./assets/pals/Mammorest.webp",
+      "elements": [
+        "grass",
+        "ground"
+      ]
     },
     {
       "dex_no": "87B",
@@ -2391,7 +2919,12 @@
       "cooling": 5,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Mammorest_Cryst"
+      "source_url": "https://paldb.cc/cn/Mammorest_Cryst",
+      "icon": "./assets/pals/Mammorest_Cryst.webp",
+      "elements": [
+        "ice",
+        "ground"
+      ]
     },
     {
       "dex_no": "88",
@@ -2410,7 +2943,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Finsider"
+      "source_url": "https://paldb.cc/cn/Finsider",
+      "icon": "./assets/pals/Finsider.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "88B",
@@ -2429,7 +2966,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Finsider_Ignis"
+      "source_url": "https://paldb.cc/cn/Finsider_Ignis",
+      "icon": "./assets/pals/Finsider_Ignis.webp",
+      "elements": [
+        "water",
+        "fire"
+      ]
     },
     {
       "dex_no": "89",
@@ -2448,7 +2990,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Petallia"
+      "source_url": "https://paldb.cc/cn/Petallia",
+      "icon": "./assets/pals/Petallia.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "89B",
@@ -2467,7 +3013,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Petallia_Ignis"
+      "source_url": "https://paldb.cc/cn/Petallia_Ignis",
+      "icon": "./assets/pals/Petallia_Ignis.webp",
+      "elements": [
+        "grass",
+        "fire"
+      ]
     },
     {
       "dex_no": "90",
@@ -2486,7 +3037,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Leafan"
+      "source_url": "https://paldb.cc/cn/Leafan",
+      "icon": "./assets/pals/Leafan.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "91",
@@ -2505,7 +3060,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Incineram"
+      "source_url": "https://paldb.cc/cn/Incineram",
+      "icon": "./assets/pals/Incineram.webp",
+      "elements": [
+        "fire",
+        "dark"
+      ]
     },
     {
       "dex_no": "91B",
@@ -2524,7 +3084,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Incineram_Noct"
+      "source_url": "https://paldb.cc/cn/Incineram_Noct",
+      "icon": "./assets/pals/Incineram_Noct.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "92",
@@ -2543,7 +3107,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dazzi"
+      "source_url": "https://paldb.cc/cn/Dazzi",
+      "icon": "./assets/pals/Dazzi.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "92B",
@@ -2562,7 +3130,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dazzi_Noct"
+      "source_url": "https://paldb.cc/cn/Dazzi_Noct",
+      "icon": "./assets/pals/Dazzi_Noct.webp",
+      "elements": [
+        "dark",
+        "electric"
+      ]
     },
     {
       "dex_no": "93",
@@ -2581,7 +3154,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Pyrin"
+      "source_url": "https://paldb.cc/cn/Pyrin",
+      "icon": "./assets/pals/Pyrin.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "93B",
@@ -2600,7 +3177,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Pyrin_Noct"
+      "source_url": "https://paldb.cc/cn/Pyrin_Noct",
+      "icon": "./assets/pals/Pyrin_Noct.webp",
+      "elements": [
+        "fire",
+        "dark"
+      ]
     },
     {
       "dex_no": "94",
@@ -2619,7 +3201,12 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Relaxaurus"
+      "source_url": "https://paldb.cc/cn/Relaxaurus",
+      "icon": "./assets/pals/Relaxaurus.webp",
+      "elements": [
+        "dragon",
+        "water"
+      ]
     },
     {
       "dex_no": "94B",
@@ -2638,7 +3225,12 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Relaxaurus_Lux"
+      "source_url": "https://paldb.cc/cn/Relaxaurus_Lux",
+      "icon": "./assets/pals/Relaxaurus_Lux.webp",
+      "elements": [
+        "dragon",
+        "electric"
+      ]
     },
     {
       "dex_no": "95",
@@ -2657,7 +3249,11 @@
       "cooling": 4,
       "transporting": 0,
       "farming": 3,
-      "source_url": "https://paldb.cc/cn/Foxcicle"
+      "source_url": "https://paldb.cc/cn/Foxcicle",
+      "icon": "./assets/pals/Foxcicle.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "96",
@@ -2676,7 +3272,11 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Beakon"
+      "source_url": "https://paldb.cc/cn/Beakon",
+      "icon": "./assets/pals/Beakon.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "96B",
@@ -2695,7 +3295,11 @@
       "cooling": 5,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Beakon_Cryst"
+      "source_url": "https://paldb.cc/cn/Beakon_Cryst",
+      "icon": "./assets/pals/Beakon_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "97",
@@ -2714,7 +3318,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Ghangler"
+      "source_url": "https://paldb.cc/cn/Ghangler",
+      "icon": "./assets/pals/Ghangler.webp",
+      "elements": [
+        "dark",
+        "water"
+      ]
     },
     {
       "dex_no": "97B",
@@ -2733,7 +3342,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Ghangler_Ignis"
+      "source_url": "https://paldb.cc/cn/Ghangler_Ignis",
+      "icon": "./assets/pals/Ghangler_Ignis.webp",
+      "elements": [
+        "fire",
+        "water"
+      ]
     },
     {
       "dex_no": "98",
@@ -2752,7 +3366,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Rayhound"
+      "source_url": "https://paldb.cc/cn/Rayhound",
+      "icon": "./assets/pals/Rayhound.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "98B",
@@ -2771,7 +3389,11 @@
       "cooling": 3,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Rayhound_Cryst"
+      "source_url": "https://paldb.cc/cn/Rayhound_Cryst",
+      "icon": "./assets/pals/Rayhound_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "99",
@@ -2790,7 +3412,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Menasting"
+      "source_url": "https://paldb.cc/cn/Menasting",
+      "icon": "./assets/pals/Menasting.webp",
+      "elements": [
+        "dark",
+        "ground"
+      ]
     },
     {
       "dex_no": "99B",
@@ -2809,7 +3436,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Menasting_Terra"
+      "source_url": "https://paldb.cc/cn/Menasting_Terra",
+      "icon": "./assets/pals/Menasting_Terra.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "100",
@@ -2828,7 +3459,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Needoll"
+      "source_url": "https://paldb.cc/cn/Needoll",
+      "icon": "./assets/pals/Needoll.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "100B",
@@ -2847,7 +3482,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Needoll_Noct"
+      "source_url": "https://paldb.cc/cn/Needoll_Noct",
+      "icon": "./assets/pals/Needoll_Noct.webp",
+      "elements": [
+        "dark",
+        "grass"
+      ]
     },
     {
       "dex_no": "101",
@@ -2866,7 +3506,11 @@
       "cooling": 3,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Reindrix"
+      "source_url": "https://paldb.cc/cn/Reindrix",
+      "icon": "./assets/pals/Reindrix.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "102",
@@ -2885,7 +3529,11 @@
       "cooling": 0,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Mossanda"
+      "source_url": "https://paldb.cc/cn/Mossanda",
+      "icon": "./assets/pals/Mossanda.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "102B",
@@ -2904,7 +3552,11 @@
       "cooling": 0,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Mossanda_Lux"
+      "source_url": "https://paldb.cc/cn/Mossanda_Lux",
+      "icon": "./assets/pals/Mossanda_Lux.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "103",
@@ -2923,7 +3575,12 @@
       "cooling": 2,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Chillet"
+      "source_url": "https://paldb.cc/cn/Chillet",
+      "icon": "./assets/pals/Chillet.webp",
+      "elements": [
+        "ice",
+        "dragon"
+      ]
     },
     {
       "dex_no": "103B",
@@ -2942,7 +3599,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Chillet_Ignis"
+      "source_url": "https://paldb.cc/cn/Chillet_Ignis",
+      "icon": "./assets/pals/Chillet_Ignis.webp",
+      "elements": [
+        "fire",
+        "dragon"
+      ]
     },
     {
       "dex_no": "104",
@@ -2961,7 +3623,11 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Ragnahawk"
+      "source_url": "https://paldb.cc/cn/Ragnahawk",
+      "icon": "./assets/pals/Ragnahawk.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "105",
@@ -2980,7 +3646,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Moldron"
+      "source_url": "https://paldb.cc/cn/Moldron",
+      "icon": "./assets/pals/Moldron.webp",
+      "elements": [
+        "fire",
+        "ground"
+      ]
     },
     {
       "dex_no": "105B",
@@ -2999,7 +3670,12 @@
       "cooling": 5,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Moldron_Cryst"
+      "source_url": "https://paldb.cc/cn/Moldron_Cryst",
+      "icon": "./assets/pals/Moldron_Cryst.webp",
+      "elements": [
+        "ice",
+        "ground"
+      ]
     },
     {
       "dex_no": "106",
@@ -3018,7 +3694,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Palumba"
+      "source_url": "https://paldb.cc/cn/Palumba",
+      "icon": "./assets/pals/Palumba.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "107",
@@ -3037,7 +3717,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Digtoise"
+      "source_url": "https://paldb.cc/cn/Digtoise",
+      "icon": "./assets/pals/Digtoise.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "108",
@@ -3056,7 +3740,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Broncherry"
+      "source_url": "https://paldb.cc/cn/Broncherry",
+      "icon": "./assets/pals/Broncherry.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "108B",
@@ -3075,7 +3763,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Broncherry_Aqua"
+      "source_url": "https://paldb.cc/cn/Broncherry_Aqua",
+      "icon": "./assets/pals/Broncherry_Aqua.webp",
+      "elements": [
+        "grass",
+        "water"
+      ]
     },
     {
       "dex_no": "109",
@@ -3094,7 +3787,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 1,
-      "source_url": "https://paldb.cc/cn/Dumud"
+      "source_url": "https://paldb.cc/cn/Dumud",
+      "icon": "./assets/pals/Dumud.webp",
+      "elements": [
+        "ground",
+        "water"
+      ]
     },
     {
       "dex_no": "109B",
@@ -3113,7 +3811,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 4,
-      "source_url": "https://paldb.cc/cn/Dumud_Gild"
+      "source_url": "https://paldb.cc/cn/Dumud_Gild",
+      "icon": "./assets/pals/Dumud_Gild.webp",
+      "elements": [
+        "ground",
+        "water"
+      ]
     },
     {
       "dex_no": "110",
@@ -3132,7 +3835,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Braloha"
+      "source_url": "https://paldb.cc/cn/Braloha",
+      "icon": "./assets/pals/Braloha.webp",
+      "elements": [
+        "grass",
+        "ground"
+      ]
     },
     {
       "dex_no": "111",
@@ -3151,7 +3859,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Kitsun"
+      "source_url": "https://paldb.cc/cn/Kitsun",
+      "icon": "./assets/pals/Kitsun.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "111B",
@@ -3170,7 +3882,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Kitsun_Noct"
+      "source_url": "https://paldb.cc/cn/Kitsun_Noct",
+      "icon": "./assets/pals/Kitsun_Noct.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "112",
@@ -3189,7 +3905,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Blazehowl"
+      "source_url": "https://paldb.cc/cn/Blazehowl",
+      "icon": "./assets/pals/Blazehowl.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "112B",
@@ -3208,7 +3928,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Blazehowl_Noct"
+      "source_url": "https://paldb.cc/cn/Blazehowl_Noct",
+      "icon": "./assets/pals/Blazehowl_Noct.webp",
+      "elements": [
+        "fire",
+        "dark"
+      ]
     },
     {
       "dex_no": "113",
@@ -3227,7 +3952,12 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Warsect"
+      "source_url": "https://paldb.cc/cn/Warsect",
+      "icon": "./assets/pals/Warsect.webp",
+      "elements": [
+        "ground",
+        "grass"
+      ]
     },
     {
       "dex_no": "113B",
@@ -3246,7 +3976,11 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Warsect_Terra"
+      "source_url": "https://paldb.cc/cn/Warsect_Terra",
+      "icon": "./assets/pals/Warsect_Terra.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "114",
@@ -3265,7 +3999,11 @@
       "cooling": 4,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Frostplume"
+      "source_url": "https://paldb.cc/cn/Frostplume",
+      "icon": "./assets/pals/Frostplume.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "115",
@@ -3284,7 +4022,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Majex"
+      "source_url": "https://paldb.cc/cn/Majex",
+      "icon": "./assets/pals/Majex.webp",
+      "elements": [
+        "dark",
+        "fire"
+      ]
     },
     {
       "dex_no": "116",
@@ -3303,7 +4046,11 @@
       "cooling": 3,
       "transporting": 0,
       "farming": 3,
-      "source_url": "https://paldb.cc/cn/Sibelyx"
+      "source_url": "https://paldb.cc/cn/Sibelyx",
+      "icon": "./assets/pals/Sibelyx.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "116B",
@@ -3322,7 +4069,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 4,
-      "source_url": "https://paldb.cc/cn/Sibelyx_Primo"
+      "source_url": "https://paldb.cc/cn/Sibelyx_Primo",
+      "icon": "./assets/pals/Sibelyx_Primo.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "117",
@@ -3341,7 +4092,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Maraith"
+      "source_url": "https://paldb.cc/cn/Maraith",
+      "icon": "./assets/pals/Maraith.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "118",
@@ -3360,7 +4115,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 3,
-      "source_url": "https://paldb.cc/cn/Shroomer"
+      "source_url": "https://paldb.cc/cn/Shroomer",
+      "icon": "./assets/pals/Shroomer.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "118B",
@@ -3379,7 +4138,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Shroomer_Noct"
+      "source_url": "https://paldb.cc/cn/Shroomer_Noct",
+      "icon": "./assets/pals/Shroomer_Noct.webp",
+      "elements": [
+        "grass",
+        "dark"
+      ]
     },
     {
       "dex_no": "119",
@@ -3398,7 +4162,11 @@
       "cooling": 5,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Icelyn"
+      "source_url": "https://paldb.cc/cn/Icelyn",
+      "icon": "./assets/pals/Icelyn.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "120",
@@ -3417,7 +4185,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Gildra"
+      "source_url": "https://paldb.cc/cn/Gildra",
+      "icon": "./assets/pals/Gildra.webp",
+      "elements": [
+        "dark",
+        "ground"
+      ]
     },
     {
       "dex_no": "121",
@@ -3436,7 +4209,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Jormuntide"
+      "source_url": "https://paldb.cc/cn/Jormuntide",
+      "icon": "./assets/pals/Jormuntide.webp",
+      "elements": [
+        "dragon",
+        "water"
+      ]
     },
     {
       "dex_no": "121B",
@@ -3455,7 +4233,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Jormuntide_Ignis"
+      "source_url": "https://paldb.cc/cn/Jormuntide_Ignis",
+      "icon": "./assets/pals/Jormuntide_Ignis.webp",
+      "elements": [
+        "dragon",
+        "fire"
+      ]
     },
     {
       "dex_no": "122",
@@ -3474,7 +4257,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Suzaku"
+      "source_url": "https://paldb.cc/cn/Suzaku",
+      "icon": "./assets/pals/Suzaku.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "122B",
@@ -3493,7 +4280,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Suzaku_Aqua"
+      "source_url": "https://paldb.cc/cn/Suzaku_Aqua",
+      "icon": "./assets/pals/Suzaku_Aqua.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "123",
@@ -3512,7 +4303,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dazemu"
+      "source_url": "https://paldb.cc/cn/Dazemu",
+      "icon": "./assets/pals/Dazemu.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "124",
@@ -3531,7 +4326,11 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Quivern"
+      "source_url": "https://paldb.cc/cn/Quivern",
+      "icon": "./assets/pals/Quivern.webp",
+      "elements": [
+        "dragon"
+      ]
     },
     {
       "dex_no": "124B",
@@ -3550,7 +4349,12 @@
       "cooling": 0,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Quivern_Botan"
+      "source_url": "https://paldb.cc/cn/Quivern_Botan",
+      "icon": "./assets/pals/Quivern_Botan.webp",
+      "elements": [
+        "dragon",
+        "grass"
+      ]
     },
     {
       "dex_no": "125",
@@ -3569,7 +4373,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Lullu"
+      "source_url": "https://paldb.cc/cn/Lullu",
+      "icon": "./assets/pals/Lullu.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "126",
@@ -3588,7 +4396,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Kikit"
+      "source_url": "https://paldb.cc/cn/Kikit",
+      "icon": "./assets/pals/Kikit.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "127",
@@ -3607,7 +4419,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Yakumo"
+      "source_url": "https://paldb.cc/cn/Yakumo",
+      "icon": "./assets/pals/Yakumo.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "128",
@@ -3626,7 +4442,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Skutlass"
+      "source_url": "https://paldb.cc/cn/Skutlass",
+      "icon": "./assets/pals/Skutlass.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "128B",
@@ -3645,7 +4465,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Skutlass_Ignis"
+      "source_url": "https://paldb.cc/cn/Skutlass_Ignis",
+      "icon": "./assets/pals/Skutlass_Ignis.webp",
+      "elements": [
+        "water",
+        "fire"
+      ]
     },
     {
       "dex_no": "129",
@@ -3664,7 +4489,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Reptyro"
+      "source_url": "https://paldb.cc/cn/Reptyro",
+      "icon": "./assets/pals/Reptyro.webp",
+      "elements": [
+        "fire",
+        "ground"
+      ]
     },
     {
       "dex_no": "129B",
@@ -3683,7 +4513,12 @@
       "cooling": 5,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Reptyro_Cryst"
+      "source_url": "https://paldb.cc/cn/Reptyro_Cryst",
+      "icon": "./assets/pals/Reptyro_Cryst.webp",
+      "elements": [
+        "ice",
+        "ground"
+      ]
     },
     {
       "dex_no": "130",
@@ -3702,7 +4537,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Starryon"
+      "source_url": "https://paldb.cc/cn/Starryon",
+      "icon": "./assets/pals/Starryon.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "130B",
@@ -3721,7 +4560,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Starryon_Primo"
+      "source_url": "https://paldb.cc/cn/Starryon_Primo",
+      "icon": "./assets/pals/Starryon_Primo.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "131",
@@ -3740,7 +4583,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Pierdon"
+      "source_url": "https://paldb.cc/cn/Pierdon",
+      "icon": "./assets/pals/Pierdon.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "131B",
@@ -3759,7 +4606,11 @@
       "cooling": 6,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Pierdon_Cryst"
+      "source_url": "https://paldb.cc/cn/Pierdon_Cryst",
+      "icon": "./assets/pals/Pierdon_Cryst.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "132",
@@ -3778,7 +4629,11 @@
       "cooling": 4,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Cryolinx"
+      "source_url": "https://paldb.cc/cn/Cryolinx",
+      "icon": "./assets/pals/Cryolinx.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "132B",
@@ -3797,7 +4652,11 @@
       "cooling": 0,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Cryolinx_Terra"
+      "source_url": "https://paldb.cc/cn/Cryolinx_Terra",
+      "icon": "./assets/pals/Cryolinx_Terra.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "133",
@@ -3816,7 +4675,11 @@
       "cooling": 3,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Snugloo"
+      "source_url": "https://paldb.cc/cn/Snugloo",
+      "icon": "./assets/pals/Snugloo.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "134",
@@ -3835,7 +4698,11 @@
       "cooling": 5,
       "transporting": 6,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Wumpo"
+      "source_url": "https://paldb.cc/cn/Wumpo",
+      "icon": "./assets/pals/Wumpo.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "134B",
@@ -3854,7 +4721,11 @@
       "cooling": 0,
       "transporting": 6,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Wumpo_Botan"
+      "source_url": "https://paldb.cc/cn/Wumpo_Botan",
+      "icon": "./assets/pals/Wumpo_Botan.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "135",
@@ -3873,7 +4744,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 2,
-      "source_url": "https://paldb.cc/cn/Sootseer"
+      "source_url": "https://paldb.cc/cn/Sootseer",
+      "icon": "./assets/pals/Sootseer.webp",
+      "elements": [
+        "dark",
+        "fire"
+      ]
     },
     {
       "dex_no": "136",
@@ -3892,7 +4768,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Carnibora"
+      "source_url": "https://paldb.cc/cn/Carnibora",
+      "icon": "./assets/pals/Carnibora.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "137",
@@ -3911,7 +4791,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Blazamut"
+      "source_url": "https://paldb.cc/cn/Blazamut",
+      "icon": "./assets/pals/Blazamut.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "137B",
@@ -3930,7 +4814,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Blazamut_Ryu"
+      "source_url": "https://paldb.cc/cn/Blazamut_Ryu",
+      "icon": "./assets/pals/Blazamut_Ryu.webp",
+      "elements": [
+        "dragon",
+        "fire"
+      ]
     },
     {
       "dex_no": "138",
@@ -3949,7 +4838,12 @@
       "cooling": 0,
       "transporting": 6,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dualith"
+      "source_url": "https://paldb.cc/cn/Dualith",
+      "icon": "./assets/pals/Dualith.webp",
+      "elements": [
+        "ground",
+        "grass"
+      ]
     },
     {
       "dex_no": "138B",
@@ -3968,7 +4862,12 @@
       "cooling": 0,
       "transporting": 6,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dualith_Noct"
+      "source_url": "https://paldb.cc/cn/Dualith_Noct",
+      "icon": "./assets/pals/Dualith_Noct.webp",
+      "elements": [
+        "ground",
+        "dark"
+      ]
     },
     {
       "dex_no": "139",
@@ -3987,7 +4886,11 @@
       "cooling": 0,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Anubis"
+      "source_url": "https://paldb.cc/cn/Anubis",
+      "icon": "./assets/pals/Anubis.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "140",
@@ -4006,7 +4909,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Sekhmet"
+      "source_url": "https://paldb.cc/cn/Sekhmet",
+      "icon": "./assets/pals/Sekhmet.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "141",
@@ -4025,7 +4932,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Prixter"
+      "source_url": "https://paldb.cc/cn/Prixter",
+      "icon": "./assets/pals/Prixter.webp",
+      "elements": [
+        "dark",
+        "ground"
+      ]
     },
     {
       "dex_no": "141B",
@@ -4044,7 +4956,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Prixter_Lux"
+      "source_url": "https://paldb.cc/cn/Prixter_Lux",
+      "icon": "./assets/pals/Prixter_Lux.webp",
+      "elements": [
+        "electric",
+        "ground"
+      ]
     },
     {
       "dex_no": "142",
@@ -4063,7 +4980,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Tetroise"
+      "source_url": "https://paldb.cc/cn/Tetroise",
+      "icon": "./assets/pals/Tetroise.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "142B",
@@ -4082,7 +5003,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Tetroise_Primo"
+      "source_url": "https://paldb.cc/cn/Tetroise_Primo",
+      "icon": "./assets/pals/Tetroise_Primo.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "143",
@@ -4101,7 +5026,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Nyafia"
+      "source_url": "https://paldb.cc/cn/Nyafia",
+      "icon": "./assets/pals/Nyafia.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "144",
@@ -4120,7 +5049,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Mimog"
+      "source_url": "https://paldb.cc/cn/Mimog",
+      "icon": "./assets/pals/Mimog.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "145",
@@ -4139,7 +5072,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Xenovader"
+      "source_url": "https://paldb.cc/cn/Xenovader",
+      "icon": "./assets/pals/Xenovader.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "146",
@@ -4158,7 +5095,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Xenogard"
+      "source_url": "https://paldb.cc/cn/Xenogard",
+      "icon": "./assets/pals/Xenogard.webp",
+      "elements": [
+        "dragon"
+      ]
     },
     {
       "dex_no": "147",
@@ -4177,7 +5118,12 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Prunelia"
+      "source_url": "https://paldb.cc/cn/Prunelia",
+      "icon": "./assets/pals/Prunelia.webp",
+      "elements": [
+        "grass",
+        "dark"
+      ]
     },
     {
       "dex_no": "148",
@@ -4196,7 +5142,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Nitemary"
+      "source_url": "https://paldb.cc/cn/Nitemary",
+      "icon": "./assets/pals/Nitemary.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "148B",
@@ -4215,7 +5165,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Nitemary_Botan"
+      "source_url": "https://paldb.cc/cn/Nitemary_Botan",
+      "icon": "./assets/pals/Nitemary_Botan.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "149",
@@ -4234,7 +5188,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Smokie"
+      "source_url": "https://paldb.cc/cn/Smokie",
+      "icon": "./assets/pals/Smokie.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "149B",
@@ -4253,7 +5211,12 @@
       "cooling": 2,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Smokie_Cryst"
+      "source_url": "https://paldb.cc/cn/Smokie_Cryst",
+      "icon": "./assets/pals/Smokie_Cryst.webp",
+      "elements": [
+        "dark",
+        "ice"
+      ]
     },
     {
       "dex_no": "150",
@@ -4272,7 +5235,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Omascul"
+      "source_url": "https://paldb.cc/cn/Omascul",
+      "icon": "./assets/pals/Omascul.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "151",
@@ -4291,7 +5258,12 @@
       "cooling": 6,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Whalaska"
+      "source_url": "https://paldb.cc/cn/Whalaska",
+      "icon": "./assets/pals/Whalaska.webp",
+      "elements": [
+        "ice",
+        "water"
+      ]
     },
     {
       "dex_no": "151B",
@@ -4310,7 +5282,12 @@
       "cooling": 6,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Whalaska_Ignis"
+      "source_url": "https://paldb.cc/cn/Whalaska_Ignis",
+      "icon": "./assets/pals/Whalaska_Ignis.webp",
+      "elements": [
+        "ice",
+        "fire"
+      ]
     },
     {
       "dex_no": "152",
@@ -4329,7 +5306,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Verdash"
+      "source_url": "https://paldb.cc/cn/Verdash",
+      "icon": "./assets/pals/Verdash.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "153",
@@ -4348,7 +5329,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Splatterina"
+      "source_url": "https://paldb.cc/cn/Splatterina",
+      "icon": "./assets/pals/Splatterina.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "154",
@@ -4367,7 +5352,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Gildane"
+      "source_url": "https://paldb.cc/cn/Gildane",
+      "icon": "./assets/pals/Gildane.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "155",
@@ -4386,7 +5375,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dogen"
+      "source_url": "https://paldb.cc/cn/Dogen",
+      "icon": "./assets/pals/Dogen.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "156",
@@ -4405,7 +5398,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Bulldosu"
+      "source_url": "https://paldb.cc/cn/Bulldosu",
+      "icon": "./assets/pals/Bulldosu.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "157",
@@ -4424,7 +5421,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Celesdir"
+      "source_url": "https://paldb.cc/cn/Celesdir",
+      "icon": "./assets/pals/Celesdir.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "157B",
@@ -4443,7 +5444,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Celesdir_Noct"
+      "source_url": "https://paldb.cc/cn/Celesdir_Noct",
+      "icon": "./assets/pals/Celesdir_Noct.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "158",
@@ -4462,7 +5467,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Astegon"
+      "source_url": "https://paldb.cc/cn/Astegon",
+      "icon": "./assets/pals/Astegon.webp",
+      "elements": [
+        "dragon",
+        "dark"
+      ]
     },
     {
       "dex_no": "159",
@@ -4481,7 +5491,11 @@
       "cooling": 0,
       "transporting": 7,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Knocklem"
+      "source_url": "https://paldb.cc/cn/Knocklem",
+      "icon": "./assets/pals/Knocklem.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "159B",
@@ -4500,7 +5514,11 @@
       "cooling": 0,
       "transporting": 7,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Knocklem_Ignis"
+      "source_url": "https://paldb.cc/cn/Knocklem_Ignis",
+      "icon": "./assets/pals/Knocklem_Ignis.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "160",
@@ -4519,7 +5537,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Silvegis"
+      "source_url": "https://paldb.cc/cn/Silvegis",
+      "icon": "./assets/pals/Silvegis.webp",
+      "elements": [
+        "dragon"
+      ]
     },
     {
       "dex_no": "161",
@@ -4538,7 +5560,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Azurmane"
+      "source_url": "https://paldb.cc/cn/Azurmane",
+      "icon": "./assets/pals/Azurmane.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "162",
@@ -4557,7 +5583,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Valentail"
+      "source_url": "https://paldb.cc/cn/Valentail",
+      "icon": "./assets/pals/Valentail.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "163",
@@ -4576,7 +5606,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Snock"
+      "source_url": "https://paldb.cc/cn/Snock",
+      "icon": "./assets/pals/Snock.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "163B",
@@ -4595,7 +5629,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Snock_Lux"
+      "source_url": "https://paldb.cc/cn/Snock_Lux",
+      "icon": "./assets/pals/Snock_Lux.webp",
+      "elements": [
+        "electric",
+        "ground"
+      ]
     },
     {
       "dex_no": "164",
@@ -4614,7 +5653,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Souffline"
+      "source_url": "https://paldb.cc/cn/Souffline",
+      "icon": "./assets/pals/Souffline.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "165",
@@ -4633,7 +5676,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Lapiron"
+      "source_url": "https://paldb.cc/cn/Lapiron",
+      "icon": "./assets/pals/Lapiron.webp",
+      "elements": [
+        "ground"
+      ]
     },
     {
       "dex_no": "166",
@@ -4652,7 +5699,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Hoodle"
+      "source_url": "https://paldb.cc/cn/Hoodle",
+      "icon": "./assets/pals/Hoodle.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "167",
@@ -4671,7 +5722,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Slowatt"
+      "source_url": "https://paldb.cc/cn/Slowatt",
+      "icon": "./assets/pals/Slowatt.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "168",
@@ -4690,7 +5745,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Bakemi"
+      "source_url": "https://paldb.cc/cn/Bakemi",
+      "icon": "./assets/pals/Bakemi.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "169",
@@ -4709,7 +5768,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Solmora"
+      "source_url": "https://paldb.cc/cn/Solmora",
+      "icon": "./assets/pals/Solmora.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "169B",
@@ -4728,7 +5791,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Solmora_Lux"
+      "source_url": "https://paldb.cc/cn/Solmora_Lux",
+      "icon": "./assets/pals/Solmora_Lux.webp",
+      "elements": [
+        "water",
+        "electric"
+      ]
     },
     {
       "dex_no": "170",
@@ -4747,7 +5815,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Lapure"
+      "source_url": "https://paldb.cc/cn/Lapure",
+      "icon": "./assets/pals/Lapure.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "171",
@@ -4766,7 +5838,12 @@
       "cooling": 0,
       "transporting": 6,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Eidrolon"
+      "source_url": "https://paldb.cc/cn/Eidrolon",
+      "icon": "./assets/pals/Eidrolon.webp",
+      "elements": [
+        "dragon",
+        "dark"
+      ]
     },
     {
       "dex_no": "171B",
@@ -4785,7 +5862,12 @@
       "cooling": 0,
       "transporting": 6,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Eidrolon_Ignis"
+      "source_url": "https://paldb.cc/cn/Eidrolon_Ignis",
+      "icon": "./assets/pals/Eidrolon_Ignis.webp",
+      "elements": [
+        "dragon",
+        "fire"
+      ]
     },
     {
       "dex_no": "172",
@@ -4804,7 +5886,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dynamoff"
+      "source_url": "https://paldb.cc/cn/Dynamoff",
+      "icon": "./assets/pals/Dynamoff.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "173",
@@ -4823,7 +5909,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Tropicaw"
+      "source_url": "https://paldb.cc/cn/Tropicaw",
+      "icon": "./assets/pals/Tropicaw.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "174",
@@ -4842,7 +5932,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Flaracle"
+      "source_url": "https://paldb.cc/cn/Flaracle",
+      "icon": "./assets/pals/Flaracle.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "175",
@@ -4861,7 +5955,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Ophydia"
+      "source_url": "https://paldb.cc/cn/Ophydia",
+      "icon": "./assets/pals/Ophydia.webp",
+      "elements": [
+        "grass",
+        "water"
+      ]
     },
     {
       "dex_no": "176",
@@ -4880,7 +5979,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dupin"
+      "source_url": "https://paldb.cc/cn/Dupin",
+      "icon": "./assets/pals/Dupin.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "177",
@@ -4899,7 +6002,11 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Roujay"
+      "source_url": "https://paldb.cc/cn/Roujay",
+      "icon": "./assets/pals/Roujay.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "178",
@@ -4918,7 +6025,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Venusa"
+      "source_url": "https://paldb.cc/cn/Venusa",
+      "icon": "./assets/pals/Venusa.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "179",
@@ -4937,7 +6048,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Mycora"
+      "source_url": "https://paldb.cc/cn/Mycora",
+      "icon": "./assets/pals/Mycora.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "180",
@@ -4956,7 +6071,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Loomen"
+      "source_url": "https://paldb.cc/cn/Loomen",
+      "icon": "./assets/pals/Loomen.webp",
+      "elements": [
+        "dark",
+        "fire"
+      ]
     },
     {
       "dex_no": "181",
@@ -4975,7 +6095,11 @@
       "cooling": 0,
       "transporting": 1,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Wistella"
+      "source_url": "https://paldb.cc/cn/Wistella",
+      "icon": "./assets/pals/Wistella.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "182",
@@ -4994,7 +6118,12 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Solenne"
+      "source_url": "https://paldb.cc/cn/Solenne",
+      "icon": "./assets/pals/Solenne.webp",
+      "elements": [
+        "dark",
+        "normal"
+      ]
     },
     {
       "dex_no": "183",
@@ -5013,7 +6142,11 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Renjishi"
+      "source_url": "https://paldb.cc/cn/Renjishi",
+      "icon": "./assets/pals/Renjishi.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "184",
@@ -5032,7 +6165,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Aegidron"
+      "source_url": "https://paldb.cc/cn/Aegidron",
+      "icon": "./assets/pals/Aegidron.webp",
+      "elements": [
+        "dragon",
+        "ground"
+      ]
     },
     {
       "dex_no": "185",
@@ -5051,7 +6189,11 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Grizzbolt"
+      "source_url": "https://paldb.cc/cn/Grizzbolt",
+      "icon": "./assets/pals/Grizzbolt.webp",
+      "elements": [
+        "electric"
+      ]
     },
     {
       "dex_no": "186",
@@ -5070,7 +6212,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Lyleen"
+      "source_url": "https://paldb.cc/cn/Lyleen",
+      "icon": "./assets/pals/Lyleen.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "186B",
@@ -5089,7 +6235,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Lyleen_Noct"
+      "source_url": "https://paldb.cc/cn/Lyleen_Noct",
+      "icon": "./assets/pals/Lyleen_Noct.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "187",
@@ -5108,7 +6258,12 @@
       "cooling": 0,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Orserk"
+      "source_url": "https://paldb.cc/cn/Orserk",
+      "icon": "./assets/pals/Orserk.webp",
+      "elements": [
+        "dragon",
+        "electric"
+      ]
     },
     {
       "dex_no": "188",
@@ -5127,7 +6282,11 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Faleris"
+      "source_url": "https://paldb.cc/cn/Faleris",
+      "icon": "./assets/pals/Faleris.webp",
+      "elements": [
+        "fire"
+      ]
     },
     {
       "dex_no": "188B",
@@ -5146,7 +6305,11 @@
       "cooling": 0,
       "transporting": 5,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Faleris_Aqua"
+      "source_url": "https://paldb.cc/cn/Faleris_Aqua",
+      "icon": "./assets/pals/Faleris_Aqua.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "189",
@@ -5165,7 +6328,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Shadowbeak"
+      "source_url": "https://paldb.cc/cn/Shadowbeak",
+      "icon": "./assets/pals/Shadowbeak.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "190",
@@ -5184,7 +6351,12 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Selyne"
+      "source_url": "https://paldb.cc/cn/Selyne",
+      "icon": "./assets/pals/Selyne.webp",
+      "elements": [
+        "dark",
+        "normal"
+      ]
     },
     {
       "dex_no": "191",
@@ -5203,7 +6375,11 @@
       "cooling": 8,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Bastigor"
+      "source_url": "https://paldb.cc/cn/Bastigor",
+      "icon": "./assets/pals/Bastigor.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "192",
@@ -5222,7 +6398,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Shaolong"
+      "source_url": "https://paldb.cc/cn/Shaolong",
+      "icon": "./assets/pals/Shaolong.webp",
+      "elements": [
+        "dragon",
+        "water"
+      ]
     },
     {
       "dex_no": "193",
@@ -5241,7 +6422,11 @@
       "cooling": 0,
       "transporting": 2,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Silvance"
+      "source_url": "https://paldb.cc/cn/Silvance",
+      "icon": "./assets/pals/Silvance.webp",
+      "elements": [
+        "grass"
+      ]
     },
     {
       "dex_no": "194",
@@ -5260,7 +6445,12 @@
       "cooling": 0,
       "transporting": 3,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Dandilord"
+      "source_url": "https://paldb.cc/cn/Dandilord",
+      "icon": "./assets/pals/Dandilord.webp",
+      "elements": [
+        "grass",
+        "dark"
+      ]
     },
     {
       "dex_no": "195",
@@ -5279,7 +6469,11 @@
       "cooling": 0,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Bellanoir"
+      "source_url": "https://paldb.cc/cn/Bellanoir",
+      "icon": "./assets/pals/Bellanoir.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "195B",
@@ -5298,7 +6492,11 @@
       "cooling": 0,
       "transporting": 4,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Bellanoir_Libero"
+      "source_url": "https://paldb.cc/cn/Bellanoir_Libero",
+      "icon": "./assets/pals/Bellanoir_Libero.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "196",
@@ -5317,7 +6515,12 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Xenolord"
+      "source_url": "https://paldb.cc/cn/Xenolord",
+      "icon": "./assets/pals/Xenolord.webp",
+      "elements": [
+        "dark",
+        "dragon"
+      ]
     },
     {
       "dex_no": "197",
@@ -5336,7 +6539,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Hartalis"
+      "source_url": "https://paldb.cc/cn/Hartalis",
+      "icon": "./assets/pals/Hartalis.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "198",
@@ -5355,7 +6562,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Paladius"
+      "source_url": "https://paldb.cc/cn/Paladius",
+      "icon": "./assets/pals/Paladius.webp",
+      "elements": [
+        "normal"
+      ]
     },
     {
       "dex_no": "199",
@@ -5374,7 +6585,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Necromus"
+      "source_url": "https://paldb.cc/cn/Necromus",
+      "icon": "./assets/pals/Necromus.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "200",
@@ -5393,7 +6608,11 @@
       "cooling": 7,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Frostallion"
+      "source_url": "https://paldb.cc/cn/Frostallion",
+      "icon": "./assets/pals/Frostallion.webp",
+      "elements": [
+        "ice"
+      ]
     },
     {
       "dex_no": "200B",
@@ -5412,7 +6631,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Frostallion_Noct"
+      "source_url": "https://paldb.cc/cn/Frostallion_Noct",
+      "icon": "./assets/pals/Frostallion_Noct.webp",
+      "elements": [
+        "dark"
+      ]
     },
     {
       "dex_no": "201",
@@ -5431,7 +6654,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Neptilius"
+      "source_url": "https://paldb.cc/cn/Neptilius",
+      "icon": "./assets/pals/Neptilius.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "202",
@@ -5450,7 +6677,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Jetragon"
+      "source_url": "https://paldb.cc/cn/Jetragon",
+      "icon": "./assets/pals/Jetragon.webp",
+      "elements": [
+        "dragon"
+      ]
     },
     {
       "dex_no": "203",
@@ -5469,7 +6700,11 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Panthalus"
+      "source_url": "https://paldb.cc/cn/Panthalus",
+      "icon": "./assets/pals/Panthalus.webp",
+      "elements": [
+        "water"
+      ]
     },
     {
       "dex_no": "204",
@@ -5488,7 +6723,9 @@
       "cooling": 0,
       "transporting": 0,
       "farming": 0,
-      "source_url": "https://paldb.cc/cn/Astralym"
+      "source_url": "https://paldb.cc/cn/Astralym",
+      "icon": "./assets/pals/Astralym.webp",
+      "elements": []
     }
   ]
 }

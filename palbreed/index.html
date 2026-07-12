@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#112f31">
+    <meta name="theme-color" content="#d9e3ee">
     <meta name="description" content="记录、搜索和同步幻兽帕鲁配种结果。">
     <title>帕鲁配种档案 | itsyouke.com</title>
     <link rel="stylesheet" href="./styles.css">
@@ -19,19 +19,17 @@
     </header>
 
     <main class="app-shell">
-      <section class="hero">
-        <div class="hero__stats" aria-label="配种记录统计">
-          <div><strong id="record-count">0</strong><span>配种记录</span></div>
-          <div><strong id="result-count">0</strong><span>已知结果</span></div>
-          <div><strong>288</strong><span>帕鲁资料</span></div>
-        </div>
-      </section>
-
       <section class="workspace">
         <article class="panel recorder-panel">
           <div class="panel__heading">
             <div><span class="panel__index">01</span><div><p>BREEDING ENTRY</p><h2>记录配种结果</h2></div></div>
             <span class="status-dot">本地保存</span>
+          </div>
+
+          <div class="hero__stats hero__stats--compact" aria-label="配种记录统计">
+            <div><strong id="record-count">0</strong><span>配种记录</span></div>
+            <div><strong id="result-count">0</strong><span>已知结果</span></div>
+            <div><strong>288</strong><span>帕鲁资料</span></div>
           </div>
 
           <form id="breed-form" novalidate>
@@ -76,6 +74,11 @@
             <button class="filter" data-filter="parents" type="button">配种方案</button>
             <button class="filter" data-filter="child" type="button">配种结果</button>
           </div>
+          <div class="work-filters" aria-label="按出生帕鲁工作适应性筛选">
+            <label><span>出生属性</span><select id="element-filter"><option value="">全部属性</option></select></label>
+            <label><span>工作适应性</span><select id="work-filter"><option value="">全部工作</option></select></label>
+            <label><span>最低等级</span><select id="work-level"><option value="1">Lv.1+</option><option value="2">Lv.2+</option><option value="3">Lv.3+</option><option value="4">Lv.4+</option><option value="5">Lv.5+</option><option value="6">Lv.6+</option><option value="7">Lv.7+</option><option value="8">Lv.8+</option><option value="9">Lv.9+</option><option value="10">Lv.10</option></select></label>
+          </div>
 
           <div class="record-list" id="record-list" aria-live="polite"></div>
         </article>
@@ -93,6 +96,15 @@
           <button class="button button--primary" id="import-key" type="button">导入密钥</button>
         </div>
         <p class="privacy-note">记录只保存在浏览器中；生成和导入密钥不会上传数据。</p>
+      </form>
+    </dialog>
+
+    <dialog id="pal-dialog" class="sync-dialog pal-dialog">
+      <form method="dialog" class="dialog-card">
+        <div class="dialog-heading"><div><p>PAL WORK SUITABILITY</p><h2 id="pal-dialog-name">帕鲁详情</h2><span id="pal-dialog-meta" class="pal-dialog__meta"></span></div><button value="close" aria-label="关闭">×</button></div>
+        <div id="pal-element-list" class="pal-element-list pal-element-list--dialog"></div>
+        <div id="pal-work-list" class="pal-work-list"></div>
+        <p class="privacy-note">显示未浓缩、未使用应用学道具时的原生工作适应性。</p>
       </form>
     </dialog>
 
