@@ -6,7 +6,7 @@
 
 - `E:\codex\ItsYouke\sjzpoker\` -> `https://itsyouke.com/sjzpoker/`
 - `E:\codex\ItsYouke\site1\` -> `https://itsyouke.com/site1/`
-- `E:\codex\ItsYouke\site2\` -> `https://itsyouke.com/site2/`
+- `E:\codex\ItsYouke\palbreed\` -> `https://itsyouke.com/palbreed/`
 - `E:\codex\ItsYouke\site3\` -> `https://itsyouke.com/site3/`
 
 ## 上传一个新页面

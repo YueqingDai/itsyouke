@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#112f31">
+    <meta name="description" content="记录、搜索和同步幻兽帕鲁配种结果。">
+    <title>帕鲁配种档案 | itsyouke.com</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="sky-glow" aria-hidden="true"></div>
+    <header class="topbar">
+      <a class="brand" href="../" aria-label="返回 itsyouke.com 首页">
+        <span class="brand__orb">P</span>
+        <span><strong>帕鲁配种档案</strong><small>PAL BREEDING LOG</small></span>
+      </a>
+      <button class="button button--ghost" id="open-sync" type="button">同步密钥</button>
+    </header>
+
+    <main class="app-shell">
+      <section class="hero">
+        <div class="hero__stats" aria-label="配种记录统计">
+          <div><strong id="record-count">0</strong><span>配种记录</span></div>
+          <div><strong id="result-count">0</strong><span>已知结果</span></div>
+          <div><strong>288</strong><span>帕鲁资料</span></div>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <article class="panel recorder-panel">
+          <div class="panel__heading">
+            <div><span class="panel__index">01</span><div><p>BREEDING ENTRY</p><h2>记录配种结果</h2></div></div>
+            <span class="status-dot">本地保存</span>
+          </div>
+
+          <form id="breed-form" novalidate>
+            <div class="parents-grid">
+              <label class="pal-field">
+                <span>亲代 A</span>
+                <input id="parent-a" autocomplete="off" placeholder="编号 / 中文 / English" role="combobox" aria-autocomplete="list" required>
+                <small class="field-error" id="parent-a-error"></small>
+              </label>
+              <button class="swap-button" id="swap-parents" type="button" aria-label="交换两只亲代">⇄</button>
+              <label class="pal-field">
+                <span>亲代 B</span>
+                <input id="parent-b" autocomplete="off" placeholder="编号 / 中文 / English" role="combobox" aria-autocomplete="list" required>
+                <small class="field-error" id="parent-b-error"></small>
+              </label>
+            </div>
+
+            <div class="breed-arrow" aria-hidden="true"><span></span><b>配种结果</b><span></span></div>
+
+            <label class="pal-field pal-field--result">
+              <span>出生帕鲁</span>
+              <input id="child" autocomplete="off" placeholder="编号 / 中文 / English" role="combobox" aria-autocomplete="list" required>
+              <small class="field-error" id="child-error"></small>
+            </label>
+
+            <button class="button button--primary save-button" type="submit"><span>＋</span> 保存这次配种</button>
+          </form>
+        </article>
+
+        <article class="panel records-panel">
+          <div class="panel__heading records-heading">
+            <div><span class="panel__index">02</span><div><p>RESEARCH ARCHIVE</p><h2>配种结果记录</h2></div></div>
+            <button class="text-button" id="clear-records" type="button">清空全部</button>
+          </div>
+
+          <div class="searchbar">
+            <span aria-hidden="true">⌕</span>
+            <input id="search" type="search" placeholder="搜索亲代或出生帕鲁…" autocomplete="off">
+          </div>
+          <div class="filters" role="group" aria-label="搜索范围">
+            <button class="filter is-active" data-filter="all" type="button">全部</button>
+            <button class="filter" data-filter="parents" type="button">配种方案</button>
+            <button class="filter" data-filter="child" type="button">配种结果</button>
+          </div>
+
+          <div class="record-list" id="record-list" aria-live="polite"></div>
+        </article>
+      </section>
+    </main>
+
+    <dialog id="sync-dialog" class="sync-dialog">
+      <form method="dialog" class="dialog-card">
+        <div class="dialog-heading"><div><p>PROGRESS TRANSFER</p><h2>跨浏览器同步</h2></div><button value="close" aria-label="关闭">×</button></div>
+        <p class="dialog-copy">密钥包含你的全部配种记录。请妥善保存，并在另一浏览器中粘贴导入。</p>
+        <label class="key-field"><span>同步密钥</span><textarea id="sync-key" rows="5" placeholder="点击生成密钥，或粘贴已有密钥"></textarea></label>
+        <p class="sync-message" id="sync-message" aria-live="polite"></p>
+        <div class="dialog-actions">
+          <button class="button button--secondary" id="generate-key" type="button">生成并复制</button>
+          <button class="button button--primary" id="import-key" type="button">导入密钥</button>
+        </div>
+        <p class="privacy-note">记录只保存在浏览器中；生成和导入密钥不会上传数据。</p>
+      </form>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="./app.js" defer></script>
+  </body>
+</html>
